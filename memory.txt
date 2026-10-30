@@ -1,0 +1,18 @@
+
+[MEMORY] 24/05/2024|23:59|WIB|Selesai catatan TKA kelas 9
+[DONE_MEMORY] 23/05/2024|19:00|WIB|Mengerjakan tugas
+[DONE_MEMORY] 15/05/2024|10:00|WIB|Mengerjakan PR Mandarin membuat kalimat
+[DONE_MEMORY] 13/05/2024|08:00|WIB|Mengerjakan PR Mandarin membuat kalimat
+[DONE_MEMORY] 20/05/2024|10:00|WIB|Mengerjakan PR Mandarin membuat kalimat
+[DONE_MEMORY] 13/05/2024|20:00|WIB|Kerjakan tugas vlog
+[MEMORY] 20/05/2024|17
+[DONE_MEMORY] 25/05/2024|20:00|WIB|Kerjakan tugas vlog hari ini
+[DONE_MEMORY] 17/05/2024|18:00|WIB|Kerjakan tugas vlog hari ini
+[MEMORY] 20/05/2024|23:
+[DONE_MEMORY] 15/05/2024|19:00|WIB|Mengerjakan tugas vlog
+[DONE_MEMORY] 25/02/2025|00:00|WIB|Menyelesaikan konten OSIS
+[DONE_MEMORY] 14/09/2026|00:00|WIB|Menyelesaikan konten OSIS
+[DONE_MEMORY] 14/09/2026|00:00|WIB|Menyelesaikan konten OSIS
+[DONE_MEMORY] 14/09/2026|00:00|WIB|Menyelesaikan laporan OSIS
+[DONE_MEMORY] 16/09/2026|21:00|WIB|PHP PPKnを勉強する
+[MEMORY] 16/09/2026|21:00
